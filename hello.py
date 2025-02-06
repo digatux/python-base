@@ -13,9 +13,13 @@ Tenha a variavel Lang devidamente configura ex:
 
 Execucao:
 
-    python3 hello.py
+    python3 hello.p
     ou
-    ./hello.py
+    ./hello.py 
+
+obs.: para que ./hello.py funcione é necessario deixa-lo como executavel no linux  
+$ chmod +x ./hello.py
+
 
 """
 __version__ = "0.0.1"
